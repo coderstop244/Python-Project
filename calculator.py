@@ -17,7 +17,6 @@ print("2.subtract")
 print("3.divdide")
 print("4.multiply")
     #Take input from the user
-    
 num1=float(input("Enter the first number:-"))
 num2=float(input("Enter the second number:-"))
 choice=int(input("Enterchoice:"))
